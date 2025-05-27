@@ -1,0 +1,16 @@
+From: support@apple.com
+Subject: Thanks for contacting us
+
+Hi {fname},
+
+If you need to reopen this case, click the link below.
+
+Case: 100292133221
+
+Based on the details you provided, we think you might find the following information helpful:
+If you forgot your Apple ID password
+
+We are here to help. At Apple Support, you can learn more about your product, download the latest software updates, and share tips and solutions with other users. You can also find out the best way to contact us.
+
+Thanks,  
+Apple Support
